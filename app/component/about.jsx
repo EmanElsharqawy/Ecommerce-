@@ -2,7 +2,7 @@
 const banners = [
   {
     id:0,
-    src: "/screenshot 2026-09-10 at 1.47.33 PM.png",
+    src:"/Screenshot 2026-09-10 at 1.47.33 PM.png",
     alt: "Summer sale banner",
   },
   {
